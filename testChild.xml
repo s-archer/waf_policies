@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <policy integrity_check="a5f22d49e1e4ab779c87f20d27c12b06" bigip_version="14.1.2" name="/Common/testChild">
   <type>Security</type>
-  <parent_policy_name>/juiceshop/juiceshop/testParent</parent_policy_name>
+  <parent_policy_name>/Common/Shared/testParent</parent_policy_name>
   <policy_version>
     <timestamp>2020-04-27T14:29:59Z</timestamp>
     <device_name>ip-10-0-1-65.eu-west-2.compute.internal</device_name>
