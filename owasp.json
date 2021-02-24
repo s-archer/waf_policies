@@ -5,7 +5,7 @@
     "template": {
       "name": "POLICY_TEMPLATE_RAPID_DEPLOYMENT"
     },
-    "enforcementMode":"transparent",
+    "enforcementMode":"blocking",
     "protocolIndependent": true,
     "caseInsensitive": true,
     "general": {
