@@ -8,6 +8,7 @@
     "enforcementMode":"blocking",
     "protocolIndependent": true,
     "caseInsensitive": true,
+    "applicationLanguage": "utf-8",
     "general": {
       "trustXff": true
     },
